@@ -2,6 +2,6 @@ Trabajo practico Linux
 
 Integrantes:
 
-Elias kandin
-Ezequiel crisafulli
+Elias Kandin
+Ezequiel Crisafulli
 Felipe Rene Dubois
